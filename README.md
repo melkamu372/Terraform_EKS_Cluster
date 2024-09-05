@@ -1,2 +1,2 @@
-# Terraform_EKS_Cluster
-This repository contains terraform configuration for a EKS cluster on AWS with an S3 backend and DynamoDB.
+# Terraform ELASTIC KUBERNETES SERVICE (EKS) Cluster
+ This repo gives a quick getting started guide for deploying your Amazon EKS cluster using Hashicorp Terraform. It contains contains terraform configuration for a EKS cluster on AWS with an S3 backend and DynamoDB.
